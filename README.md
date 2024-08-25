@@ -1,4 +1,4 @@
-# Option Pricing and Metrics Display Tool
+# Option Pricing Models and Pricing Display Tool
 
 ## Overview
 
