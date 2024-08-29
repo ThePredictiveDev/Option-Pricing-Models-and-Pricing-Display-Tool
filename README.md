@@ -10,7 +10,7 @@ This project is a comprehensive tool designed to price options on popular indice
   - Black-Scholes Model
   - Binomial Tree Model
   - Monte Carlo Simulation
-  - Heston Model
+  - Heston Stochastic Volatility Model
   - Merton Jump Diffusion Model
   - Hull-White Model
   - Trinomial Tree Model
